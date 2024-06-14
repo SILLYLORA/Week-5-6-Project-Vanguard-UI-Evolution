@@ -1,6 +1,4 @@
-# Week-5-6-Project-Vanguard-UI-Evolution
-
-# Ironhack Data Analytics Week 3 Project Spotify X Hack Buds Business Analysis
+# Ironhack Data Analytics Week-5-6-Project-Vanguard-UI-Evolution
 
 ## Table of Contents
 1. [Introduction](#introduction)
