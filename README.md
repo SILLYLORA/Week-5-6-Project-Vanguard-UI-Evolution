@@ -14,7 +14,8 @@
 ## Introduction
 The Vanguard Group, a leading US-based investment management company, is enhancing its online financial trading platform amid the global trend of digital transformation. This platform offers a variety of financial products and services, including mutual funds, ETFs, stocks, and bonds.
 
-## Project OverviewThe Customer Experience (CX) team is launching a new digital customer interface to achieve three main goals:
+## Project OverviewThe 
+Customer Experience (CX) team is launching a new digital customer interface to achieve three main goals:
 Increase Conversion Rates (CVR)
 Enhance Return on Investment (ROI)
 Boost Customer Retention
